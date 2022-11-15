@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Xavier (Yi-Ming) Ma
-- 👀 I’m interested in operational research, path optimization, multi-objective objective, fuzzy systems, and machine learning.
+- 👀 I’m interested in operational research, path optimization, multi-objective optimization, fuzzy systems, and machine learning.
 - 📫 How to reach me xavier_mayiming@163.com.
